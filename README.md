@@ -1,2 +1,4 @@
-# Laboratorio_de_Engenharia_de_software
--Desenvolvimento de um software, neste caso que têm a ideia central de ser um aplicativo similar ao Tinder, mas com o viés diferente, pelo fato de o app ser voltado para pessoas conhecerem pessoas com os mesmos gostos musicais, e ja a inteção de cada pessoa com o Match, vai depender de cada um, por exemplo: podendo estar lá para a criação de uma banda, ou buscando um relacionamento, ou procurando amizades com o mesmo gosto musical e entre outros...
+# Laboratorio de Engenharia de software
+
+Desenvolvimento de um software no qual a ideia central é ser um aplicativo similar ao Tinder, mas com o viés diferente.
+Nosso app é voltado para pessoas conhecerem outras pessoas com os mesmos gostos musicais, e a inteção de cada pessoa com o Match vai depender de cada um, tendo a opção de escolher o tipo de relacionamento sendo buscado.
